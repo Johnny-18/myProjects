@@ -1,0 +1,7 @@
+D:\Study\EPAM\LINQ_task\LINQ_task\bin\Debug\LINQ_task.exe.config
+D:\Study\EPAM\LINQ_task\LINQ_task\bin\Debug\LINQ_task.exe
+D:\Study\EPAM\LINQ_task\LINQ_task\bin\Debug\LINQ_task.pdb
+D:\Study\EPAM\LINQ_task\LINQ_task\obj\Debug\LINQ_task.csprojAssemblyReference.cache
+D:\Study\EPAM\LINQ_task\LINQ_task\obj\Debug\LINQ_task.csproj.CoreCompileInputs.cache
+D:\Study\EPAM\LINQ_task\LINQ_task\obj\Debug\LINQ_task.exe
+D:\Study\EPAM\LINQ_task\LINQ_task\obj\Debug\LINQ_task.pdb

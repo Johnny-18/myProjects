@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polynom", "Polynom\Polynom.csproj", "{E582A656-E4EA-4F0F-B6F3-4AE81B57155A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E582A656-E4EA-4F0F-B6F3-4AE81B57155A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E582A656-E4EA-4F0F-B6F3-4AE81B57155A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E582A656-E4EA-4F0F-B6F3-4AE81B57155A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E582A656-E4EA-4F0F-B6F3-4AE81B57155A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54DF3094-ABD8-4688-8FCE-1FDE4A979AE2}
+	EndGlobalSection
+EndGlobal

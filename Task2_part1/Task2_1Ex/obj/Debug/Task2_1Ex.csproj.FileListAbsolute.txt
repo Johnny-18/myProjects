@@ -1,0 +1,7 @@
+D:\Study\EPAM\Task2_1Ex\Task2_1Ex\bin\Debug\Task2_1Ex.exe.config
+D:\Study\EPAM\Task2_1Ex\Task2_1Ex\bin\Debug\Task2_1Ex.exe
+D:\Study\EPAM\Task2_1Ex\Task2_1Ex\bin\Debug\Task2_1Ex.pdb
+D:\Study\EPAM\Task2_1Ex\Task2_1Ex\obj\Debug\Task2_1Ex.csprojAssemblyReference.cache
+D:\Study\EPAM\Task2_1Ex\Task2_1Ex\obj\Debug\Task2_1Ex.csproj.CoreCompileInputs.cache
+D:\Study\EPAM\Task2_1Ex\Task2_1Ex\obj\Debug\Task2_1Ex.exe
+D:\Study\EPAM\Task2_1Ex\Task2_1Ex\obj\Debug\Task2_1Ex.pdb

@@ -1,0 +1,5 @@
+D:\Study\EPAM\ADO_task\DAL.EF\bin\Debug\DAL.EF.dll
+D:\Study\EPAM\ADO_task\DAL.EF\bin\Debug\DAL.EF.pdb
+D:\Study\EPAM\ADO_task\DAL.EF\obj\Debug\DAL_EF.csproj.CoreCompileInputs.cache
+D:\Study\EPAM\ADO_task\DAL.EF\obj\Debug\DAL.EF.dll
+D:\Study\EPAM\ADO_task\DAL.EF\obj\Debug\DAL.EF.pdb

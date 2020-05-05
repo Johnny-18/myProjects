@@ -1,0 +1,12 @@
+D:\Study\EPAM\ADO_task\DAL.EF\bin\Debug\DAL.EF.dll
+D:\Study\EPAM\ADO_task\DAL.EF\bin\Debug\DAL.EF.pdb
+D:\Study\EPAM\ADO_task\DAL.EF\obj\Debug\DAL.EF.csproj.CoreCompileInputs.cache
+D:\Study\EPAM\ADO_task\DAL.EF\obj\Debug\DAL.EF.dll
+D:\Study\EPAM\ADO_task\DAL.EF\obj\Debug\DAL.EF.pdb
+D:\Study\EPAM\ADO_task\DAL.EF\bin\Debug\DAL.EF.dll.config
+D:\Study\EPAM\ADO_task\DAL.EF\bin\Debug\EntityFramework.dll
+D:\Study\EPAM\ADO_task\DAL.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\EPAM\ADO_task\DAL.EF\bin\Debug\EntityFramework.xml
+D:\Study\EPAM\ADO_task\DAL.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\EPAM\ADO_task\DAL.EF\obj\Debug\DAL.EF.csproj.CopyComplete
+D:\Study\EPAM\ADO_task\DAL.EF\obj\Debug\DAL.EF.csprojAssemblyReference.cache

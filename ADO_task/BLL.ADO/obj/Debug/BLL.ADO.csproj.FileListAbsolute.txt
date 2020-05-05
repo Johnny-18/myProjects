@@ -1,0 +1,13 @@
+D:\Study\EPAM\ADO_task\BLL.ADO\bin\Debug\BLL.ADO.dll
+D:\Study\EPAM\ADO_task\BLL.ADO\bin\Debug\BLL.ADO.pdb
+D:\Study\EPAM\ADO_task\BLL.ADO\bin\Debug\EntityFramework.dll
+D:\Study\EPAM\ADO_task\BLL.ADO\bin\Debug\EntityFramework.xml
+D:\Study\EPAM\ADO_task\BLL.ADO\obj\Debug\BLL.ADO.csprojAssemblyReference.cache
+D:\Study\EPAM\ADO_task\BLL.ADO\obj\Debug\BLL.ADO.csproj.CoreCompileInputs.cache
+D:\Study\EPAM\ADO_task\BLL.ADO\obj\Debug\BLL.ADO.csproj.CopyComplete
+D:\Study\EPAM\ADO_task\BLL.ADO\obj\Debug\BLL.ADO.dll
+D:\Study\EPAM\ADO_task\BLL.ADO\obj\Debug\BLL.ADO.pdb
+D:\Study\EPAM\ADO_task\BLL.ADO\bin\Debug\DAL.dll
+D:\Study\EPAM\ADO_task\BLL.ADO\bin\Debug\DAL.pdb
+D:\Study\EPAM\ADO_task\BLL.ADO\bin\Debug\DAL.dll.config
+D:\Study\EPAM\ADO_task\BLL.ADO\bin\Debug\ru\EntityFramework.resources.dll

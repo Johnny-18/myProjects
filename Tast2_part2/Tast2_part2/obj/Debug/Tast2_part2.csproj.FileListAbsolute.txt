@@ -1,0 +1,7 @@
+D:\Study\EPAM\Tast2_part2\Tast2_part2\bin\Debug\Tast2_part2.exe.config
+D:\Study\EPAM\Tast2_part2\Tast2_part2\bin\Debug\Tast2_part2.exe
+D:\Study\EPAM\Tast2_part2\Tast2_part2\bin\Debug\Tast2_part2.pdb
+D:\Study\EPAM\Tast2_part2\Tast2_part2\obj\Debug\Tast2_part2.csprojAssemblyReference.cache
+D:\Study\EPAM\Tast2_part2\Tast2_part2\obj\Debug\Tast2_part2.csproj.CoreCompileInputs.cache
+D:\Study\EPAM\Tast2_part2\Tast2_part2\obj\Debug\Tast2_part2.exe
+D:\Study\EPAM\Tast2_part2\Tast2_part2\obj\Debug\Tast2_part2.pdb

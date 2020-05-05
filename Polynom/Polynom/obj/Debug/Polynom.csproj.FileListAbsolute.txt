@@ -1,0 +1,7 @@
+D:\Study\EPAM\Polynom\Polynom\bin\Debug\Polynom.exe.config
+D:\Study\EPAM\Polynom\Polynom\bin\Debug\Polynom.exe
+D:\Study\EPAM\Polynom\Polynom\bin\Debug\Polynom.pdb
+D:\Study\EPAM\Polynom\Polynom\obj\Debug\Polynom.csprojAssemblyReference.cache
+D:\Study\EPAM\Polynom\Polynom\obj\Debug\Polynom.csproj.CoreCompileInputs.cache
+D:\Study\EPAM\Polynom\Polynom\obj\Debug\Polynom.exe
+D:\Study\EPAM\Polynom\Polynom\obj\Debug\Polynom.pdb
